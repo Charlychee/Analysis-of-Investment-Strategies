@@ -1,4 +1,4 @@
-# Analysis-of-Investment-Strategies
+# Analysis of Investment Strategies
 
 This Notebook aims to compare different investment strategies using historical stock market data.
 
